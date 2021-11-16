@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Learning Project of Ayushi and Perrin
+
+This is the first contribution of Perrin.
+
+## The Normal React Stuff
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
