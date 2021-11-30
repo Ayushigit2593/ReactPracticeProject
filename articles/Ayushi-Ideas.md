@@ -1,4 +1,4 @@
-# Perrin's Ideas
+# Ayushi's Ideas
 
 ## What is this project about?
 
